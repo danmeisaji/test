@@ -1,0 +1,29 @@
+body{ background:url('../../images/light_bg.jpg') top center repeat;}
+h1, h2, h3, h4, h5, h6{color:#000000;}
+.bg-style{ background:#fff; -webkit-box-shadow: 1px 0px 5px rgba(50, 50, 50, 0.75);-moz-box-shadow:    1px 0px 5px rgba(50, 50, 50, 0.75);box-shadow:         1px 0px 5px rgba(50, 50, 50, 0.75); border-top:0;}
+
+.main-c-holder p{color:#000000;}
+p{color:#000 !important;}
+.support-cap {background:#fff; border-bottom:1px solid #f2f2f2;}
+.support-cap p{color:#000 !important;}
+.dontae-btn{ background:#ffc000 ; color:#fff;}
+.heading-bar2{ border-radius:0; color:#000; background:#fff; -webkit-box-shadow: 1px 0px 5px rgba(50, 50, 50, 0.75);-moz-box-shadow:    1px 0px 5px rgba(50, 50, 50, 0.75);box-shadow:         1px 0px 5px rgba(50, 50, 50, 0.75); }
+.accordion-heading{ background:#f4f4f4; color:#000; border-bottom:1px solid #d4d4d4;}
+.accordion-heading a{color:#000;}
+.story-btn{ background: #fff;-webkit-box-shadow: 1px 0px 5px rgba(50, 50, 50, 0.75);-moz-box-shadow:    1px 0px 5px rgba(50, 50, 50, 0.75);box-shadow:         1px 0px 5px rgba(50, 50, 50, 0.75);}
+.story-btn a{color:#000;}
+.new-album-list{ background: #141414;  }
+.new-album-cap h2{color:#fff;}
+.new-album-cap p{color:#686868 !important;}
+.left-d{ background: rgba(177,177,177,0.18)}
+.weekly-songs h4{color:#fff !important;}
+.footer-top{background:#080808;}
+.footer-top1{ background:#131313;}
+.footer-top1 p{color:#fff !important;}
+.event-cap span{color:#000; }
+.slider-cap h2, .slider-cap p{ color:#fff !important; }
+.main-c-holder h2{color:#fff;}
+.footer-main p{color:#fff !important;}
+.ticker-bar{ background:#fff;}
+.news-title {    background: none repeat scroll 0 0 #FFC000;    color: #121212;	}
+.address-box p{color:#fff !important;}

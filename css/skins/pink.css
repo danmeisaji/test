@@ -1,0 +1,150 @@
+.slider-cap h2 span,
+.news-title,
+.main-c-holder h2 span,
+.f-title,
+.support-cap h3,
+.dontae-btn,
+.accordian-list .img-cap h3,
+div.jp-type-playlist div.jp-playlist li.jp-playlist-current a,
+.jp-current-time, .jp-duration,
+.counter-title,
+.event-date,
+.footer-top1 i,
+.news-title,
+.ticker-bar h2,
+.post-author-d,
+.comments-list li .comm-title span,
+.comm-rep,
+.post-note p a,
+.type-list,
+.team-sec li h3,
+.n-e-inner p,
+.post-nav i,
+.list-nav a,
+.address-box .title,
+.address-box p span,
+.post-author,
+.y-txt a,
+.f-img img,
+div.jp-type-playlist div.jp-playlist span.jp-free-media a,
+div.jp-type-playlist div.jp-playlist span.jp-free-media,
+.top-list li a:hover,
+.slider8 a,
+.story-btn a:hover,
+.price,
+.heading-bar2 a:hover i,
+div.jp-type-playlist div.jp-playlist a:hover,
+.post-author-d h4 span,
+.f-post-title a:hover
+ {
+color:#d7007f !important;
+}
+
+.bx-wrapper .bx-viewport,
+.bg-style,
+.inner-p-nav,
+div.jp-type-playlist div.jp-playlist li.jp-playlist-current,
+.home-portfolio-text,
+.h-line,
+.buy-btn,
+.nav-tabs > .active > a, .nav-tabs > .active > a:hover, .nav-tabs > .active > a:focus,
+.team-sec li,
+.form-list input[type="text"],
+.f-img img,
+.bx-wrapper .bx-pager.bx-default-pager a,
+.navbar-inverse .nav > li > a:focus, .navbar-inverse .nav > li > a:hover,
+.form-list textarea
+{
+border-color:#d7007f !important;
+}
+
+.footer-top1 input[type="submit"],
+.product-nav li a,
+.accordion2 .accordion-heading a:hover,
+.checkout-accordian .accordion-heading,
+.btn-bar-chekout a,
+.check-btn,
+.cart-nav a,
+.contact-btn,
+.bx-wrapper .bx-pager.bx-default-pager a:hover,
+.bx-wrapper .bx-pager.bx-default-pager a.active,
+.gallery-pagination li a:hover,
+.form-list input[type="submit"],
+.product-nav li a,
+.accordian-list .accordion-heading a:hover,
+.post-type,
+.recent-post-list .nav-tabs > li,
+.accordian-list .bx-wrapper .bx-pager.bx-default-pager a:hover,
+.accordian-list .bx-wrapper .bx-pager.bx-default-pager a.active
+.product-opt,
+.y-bg,
+.product-nav li a,
+li.active a,
+.gallery-nav li a:hover,
+.accordian-list .accordion-heading a:hover,
+.story-slider .bx-wrapper .bx-pager.bx-default-pager a:hover,
+.story-slider .bx-wrapper .bx-pager.bx-default-pager a.active,
+.heading-bar,
+.accordian-list .accordion-heading a:hover,
+.accordian-list .bx-wrapper .bx-pager.bx-default-pager a:hover,
+.accordian-list .bx-wrapper .bx-pager.bx-default-pager a.active,
+.jp-volume-bar-value,
+.dropdown-menu > li > a:hover, 
+.dropdown-menu > li > a:focus,
+.dropdown-submenu:hover > a,
+.dropdown-submenu:focus > a,
+.social-icons li:hover,
+.jp-play-bar,
+.home-portfolio-text .h-line,
+.product-opt,
+.g-l-nav li a:hover
+{
+background-color: #d7007f !important;
+}
+.buy-now{ background:url(../../images/buy-now-pink.png) no-repeat;}
+.play-btn{background:url(../../images/play-btn-pink.png) no-repeat center;}
+.shar-icon{background:url(../../images/share-icon-pink.png) no-repeat;}
+
+div.jp-type-single  .jp-play {	background: url("../../images/cp-pink.png") 0px -40px no-repeat;}
+div.jp-type-single  .jp-play:hover {background: url("../../images/cp-pink.png") -100px -40px no-repeat;}
+div.jp-type-single  .jp-pause {background: url("../../images/cp-pink.png") 0px -120px no-repeat;}
+div.jp-type-single  .jp-pause:hover {	background: url("../../images/cp-pink.png") -100px -120px no-repeat;}
+div.jp-type-single  .jp-stop {	background: url("../../images/cp-pink.png") 0px -80px no-repeat;}
+div.jp-type-single  .jp-stop:hover {background: url("../../images/cp-pink.png") -100px -80px no-repeat;}
+div.jp-type-playlist .jp-play {background: url("../../images/cp-pink.png") -24px -40px no-repeat;}
+div.jp-type-playlist .jp-play:hover {background: url("../../images/cp-pink.png") -124px -40px no-repeat;}
+div.jp-type-playlist .jp-pause {background: url("../../images/cp-pink.png") -24px -120px no-repeat;}
+div.jp-type-playlist .jp-pause:hover {background: url("../../images/cp-pink.png") -124px -120px no-repeat;}
+div.jp-type-playlist .jp-stop {background: url("../../images/cp-pink.png") -24px -80px no-repeat;}
+div.jp-type-playlist .jp-stop:hover {background: url("../../images/cp-pink.png") -124px -80px no-repeat;}
+div.jp-type-playlist .jp-previous {background: url("../../images/cp-pink.png") -24px -200px no-repeat;}
+div.jp-type-playlist .jp-previous:hover {background: url("../../images/cp-pink.png") -124px -200px no-repeat;}
+div.jp-type-playlist .jp-next {background: url("../../images/cp-pink.png") -24px -160px no-repeat;}
+div.jp-type-playlist .jp-next:hover {background: url("../../images/cp-pink.png") -124px -160px no-repeat;}
+.jp-full-screen {background: url("../../images/cp-pink.png") 0 -420px no-repeat;}
+.jp-full-screen:hover {background: url("../../images/cp-pink.png") -30px -420px no-repeat;}
+.jp-restore-screen {	background: url("../../images/cp-pink.png") -60px -420px no-repeat;}
+.jp-restore-screen:hover {background: url("../../images/cp-pink.png") -90px -420px no-repeat;}
+.jp-repeat {	background: url("../../images/cp-pink.png") 0 -440px no-repeat;}
+.jp-repeat:hover {background: url("../../images/cp-pink.png") -30px -440px no-repeat;}
+.jp-repeat-off {background: url("../../images/cp-pink.png") -60px -440px no-repeat;}
+.jp-repeat-off:hover {background: url("../../images/cp-pink.png") -90px -440px no-repeat;}
+.jp-shuffle {background: url("../../images/cp-pink.png") 0 -460px no-repeat;}
+.jp-shuffle:hover {background: url("../../images/cp-pink.png") -30px -460px no-repeat;}
+.jp-shuffle-off {background: url("../../images/cp-pink.png") -60px -460px no-repeat;}
+.jp-shuffle-off:hover {background: url("../../images/cp-pink.png") -90px -460px no-repeat;}
+div.jp-seeking-bg {background: url("cp-pink_progress.gif");}
+div.jp-interface ul.jp-controls a.jp-mute,
+div.jp-interface ul.jp-controls a.jp-unmute,
+div.jp-interface ul.jp-controls a.jp-volume-max {background: url("../../images/cp-pink.png") 0px -330px no-repeat;}
+div.jp-interface ul.jp-controls a.jp-mute:hover {background: url("../../images/cp-pink.png") -25px -330px no-repeat;}
+div.jp-interface ul.jp-controls a.jp-unmute {background: url("../../images/cp-pink.png") -60px -330px no-repeat;}
+div.jp-interface ul.jp-controls a.jp-unmute:hover {	background: url("../../images/cp-pink.png") -85px -330px no-repeat;}
+div.jp-interface ul.jp-controls a.jp-volume-max {background: url("../../images/cp-pink.png") 0px -350px no-repeat;}
+div.jp-interface ul.jp-controls a.jp-volume-max:hover {	background: url("../../images/cp-pink.png") -25px -350px no-repeat;}
+a.jp-video-play-icon {background: url("images/cp-pink.png") 0 0 no-repeat;}
+div.jp-video-play:hover a.jp-video-play-icon {background: url("images/cp-pink.png") 0 -100px no-repeat;}
+
+
+.bx-wrapper .bx-prev {background: url(../../images/controls-pink.png) no-repeat 0 -32px; }
+.bx-wrapper .bx-next {background: url(../../images/controls-pink.png) no-repeat -43px -32px; }
